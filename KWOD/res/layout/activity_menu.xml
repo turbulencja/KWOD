@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/dodaj_zdarzenieB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dodaj zdarzenie" />
+
+    <Button
+        android:id="@+id/planuj_dzienB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="planuj dzień" />
+
+    <Button
+        android:id="@+id/planuj_tydzienB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="planuj tydzień" />
+
+    <Button
+        android:id="@+id/planuj_miesiacB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="planuj miesiąc" />
+
+    <Button
+        android:id="@+id/planuj_makrocyklB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="planuj makrocykl" />
+
+    <Button
+        android:id="@+id/supleB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="* dodaj suplementy *" />
+
+    <Button
+        android:id="@+id/fakty_mityB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fakty i mity" />
+
+    <Button
+        android:id="@+id/statsyB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="* statsy *" />
+
+    <Button
+        android:id="@+id/konfiguracjaB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="konfiguracja" />
+
+</LinearLayout>

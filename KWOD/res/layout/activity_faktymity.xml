@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tytul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fakty i mity: " />
+
+    <ScrollView
+        android:id="@+id/superScroll_fakty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    	<TextView
+    	    android:id="@+id/fakty"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="wrap_content"
+    	    android:text="Poznańskie disco polo jest bardziej inteligentne
+Niż ty głupi chuju i całe Kielce
+I nie chodzi mi tutaj o jebaną zazdrość
+Żeś sobie płytę z kolegami nagrał
+Chodzi mi o to że jesteś pozerem
+Jesteś pozerem a nie gangsterem
+Z prawdziwym rapem nie masz nic wspólnego
+Chyba że black metal jest podobny do reggae
+Hardcorowe gówna gangsterski rap
+To dwie odmienne kurwa sprawy
+Powiem ci krótko ty głupi chuju
+Przebrała się miarka koniec zabawy
+Dopadnie cię gangsterski syndykat
+Ty jebany chuju ty jebany skurwysynu
+Za tę profanację które odpierdalasz
+Spotka cię solidna kurwa kara
+Ty głupi głupi i jebany skurwysynu
+Naprawdę mnie dziś wkurwiasz i mam dość tego syfu
+Słuchaj sobie dalej Beastie Boys i Scooby
+Scooby Yabba Doobie kto cię zrobił ty chuju
+Nie pierdol mi tutaj o wolności rasowej
+Bo i tak ciebie chuju nożem zapierdolę
+Komercja komercja to mnie właśnie irytuje
+Bawi się w to Liroy tak ten mały chujek
+Sprzedaje swoje gówno każdemu i wszędzie
+Więc szykuję swój pistolet bo niedługo już tak będzie
+Zamierzam to zmienić a gdy zacznę to robić
+Nie będzie tłumaczeń już nie zdążysz się obronić
+Czy ty myślisz Liroy'u że jesteś może wielki
+Że ja jestem twom fanem i że kocham twe piosenki
+Niestety tak nie jest a prawda jest taka
+Że mam ochotę zmieszać cię z błotem
+I całą tę kurwa kielecką hołotę" />
+   </ScrollView>
+
+</LinearLayout>
