@@ -28,6 +28,12 @@
         <activity
             android:name="com.example.kwod.DodajZdarzenieActivity" >
         </activity>
+        <activity
+            android:name="com.example.kwod.FaktyMityActivity" >
+        </activity>
+        <activity
+            android:name="com.example.kwod.KonfigurujActivity" >
+        </activity>
     </application>
 
 </manifest>
